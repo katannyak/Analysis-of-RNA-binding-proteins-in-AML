@@ -1,1 +1,1 @@
-Storing bed files to be viewed on UCSC genome browser
+Storing bed files to be viewed on UCSC genome browser using build hg19
